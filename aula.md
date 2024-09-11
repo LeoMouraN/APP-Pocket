@@ -36,3 +36,14 @@
     [x]while
 
     # condicionais #
+
+    [x] switch
+
+    # Modulos em Node.js:
+
+    [x] Importação de modulos (require, commnjs)
+    [x] Biblioteca 'inquirer' para criar prompts interativos
+
+    # Progamação assíncrona e promises:
+
+    [x] Uso de funções assíncronas (async/await)
