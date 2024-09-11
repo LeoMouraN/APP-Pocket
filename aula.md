@@ -29,7 +29,9 @@
 
     # Operadores 
 
-    atribuição de valores
+    [x] Atribuição de valores
+    [x] Operador de contatenação
+    [x] Operador de comparação ==,!= <> => <=
 
     # estrutura de repetição #
 
@@ -38,6 +40,7 @@
     # condicionais #
 
     [x] switch
+    [x] if/else
 
     # Modulos em Node.js:
 
