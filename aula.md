@@ -32,6 +32,14 @@
     [x] Atribuição de valores
     [x] Operador de contatenação
     [x] Operador de comparação ==,!= <> => <=
+    [x] Spread operator: ...
+
+    ## Estruturas de dados
+
+    ### Arrays:
+
+    [x] Uma lista que contem qualquer tipo de dado
+    [x] Metodos de array: push, find, forEach, filter, map: HOF (Higher Order Functions)
 
     # estrutura de repetição #
 
@@ -46,6 +54,11 @@
 
     [x] Importação de modulos (require, commnjs)
     [x] Biblioteca 'inquirer' para criar prompts interativos
+    [x] FS (file system)
+
+    ## JSON
+
+    [x] Javascript object
 
     # Progamação assíncrona e promises:
 
